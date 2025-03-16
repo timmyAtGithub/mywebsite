@@ -54,7 +54,7 @@ const Navbar: React.FC = () => {
             {isOpen && (
                 <div className="mobile-menu">
                     <a><Link to="/">{t('navbar.home')}</Link></a>
-                    <a href="#">{t('navbar.about')}</a>
+                    <a><Link to="/about">{t('navbar.about')}</Link></a>
                     <a><Link to="/projects">{t('navbar.projects')}</Link></a>
                     <a><Link to="/contact">{t('navbar.contact')}</Link></a>
                 </div>
