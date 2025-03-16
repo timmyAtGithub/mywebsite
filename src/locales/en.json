@@ -1,0 +1,48 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About Me",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Welcome to my Portfolio",
+        "description": "I am Tim, a passionate developer focused on modern and creative solutions.",
+        "projectsButton": "My Projects",
+        "contactButton": "Get in Touch"
+    },
+    "footer": {
+        "text": "Made with ❤️ by Tim.",
+        "rights": "All rights reserved."
+    },
+    "projects": {
+        "title": "My Projects",
+        "project1": {
+            "name": "NextME",
+            "description": "A ChatApp with a Geo-based Picture Sending Feature, enabling users to send pictures to others within a specific location."
+        },
+        "project2": {
+            "name": "NutriFit",
+            "description": "A comprehensive web-app for tracking calorie intake, weight progress, and setting personalized nutrition goals like muscle building or weight loss."
+        },
+        "project3": {
+            "name": "MyWebsite",
+            "description": "My personal website showcasing my portfolio, skills, and projects."
+        }
+    },
+    "contact": {
+        "title": "Get in Touch",
+        "description": "Connect with me through the following platforms:",
+        "linkedin": "LinkedIn Profile",
+        "github": "GitHub Profile",
+        "email": "Send an Email"
+    },
+    "aboutMe": {
+        "title": "About Me",
+        "description": "Hello, I am Tim, a computer science student at Reutlingen University",
+        "cvButton": "CV",
+        "referencesButton": "References",
+        "backButton": "Back",
+        "downloadButton": "Download"
+    }
+}

@@ -1,0 +1,48 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "Über Mich",
+    "projects": "Projekte",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Willkommen auf meinem Portfolio",
+    "description": "Ich bin Tim, ein leidenschaftlicher Entwickler mit Fokus auf moderne und kreative Lösungen.",
+    "projectsButton": "Meine Projekte",
+    "contactButton": "Kontakt aufnehmen"
+  },
+  "footer": {
+    "text": "Gemacht mit ❤️ von Tim.",
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "projects": {
+    "title": "Meine Projekte",
+    "project1": {
+      "name": "NextME",
+      "description": "Eine Chat-App mit einer standortbasierten Bildversand-Funktion."
+    },
+    "project2": {
+      "name": "NutriFit",
+      "description": "Eine umfassende Web-App zur Verfolgung der Kalorienaufnahme."
+    },
+    "project3": {
+      "name": "MyWebsite",
+      "description": "Meine persönliche Website, die mein Portfolio, meine Fähigkeiten und Projekte präsentiert."
+    }
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "description": "Verbinde dich mit mir über die folgenden Plattformen:",
+    "linkedin": "LinkedIn-Profil",
+    "github": "GitHub-Profil",
+    "email": "E-Mail senden"
+  },
+  "aboutMe": {
+    "title": "Über Mich",
+    "description": "Hallo, ich bin Tim, Informatik Student an der Hochschule Reutlingen",
+    "cvButton": "Lebenslauf",
+    "referencesButton": "Referenzen",
+    "backButton": "Zurück",
+    "downloadButton": "Download"
+  }
+}
